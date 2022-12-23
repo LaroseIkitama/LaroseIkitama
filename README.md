@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm IKITAMA</h1>
-<h3 align="center">I'm Software Engineer passionate about programming in all its forms. <br>I am open-minded when it comes to technology.</h3>
+<h1 align="justify">Hi 👋, I'm IKITAMA</h1>
+<h3 align="justify">I'm Software Engineer passionate about programming in all its forms. <br><br>I am open-minded when it comes to technology. Having technical interest around web applications, development tools, database design. I use JavaScript (Angular), Java and Php(Laravel and Symfony).<br><br> I am an otaku and listen to all kinds of music. Burna boy is my favourite artist.</h3>
 <img align="right" alt="coding" width="400" src="https://www.adyen.com/dam/jcr:55d891b7-1524-4483-9127-58c2eab446a7/illustration-newsletter-develop.jpg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laroseikitama&label=Profile%20views&color=0e75b6&style=flat" alt="laroseikitama" /> </p>
 
 - 🌱 I’m currently learning **Web and mobile development**
